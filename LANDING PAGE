@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A-One Fire Safety</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .container { max-width: 400px; margin: auto; }
+        .logo { width: 100%; }
+        .button { display: block; padding: 10px; margin: 10px auto; border: 2px solid red; text-decoration: none; color: black; width: 80%; }
+        .icons { display: flex; justify-content: center; gap: 15px; margin-top: 20px; }
+        .icons a { font-size: 24px; text-decoration: none; color: black; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="a-one site.png" alt="A-One Fire Safety" class="logo">
+        
+        <a href="#" class="button">Adajan Branch &#x2192;</a>
+        <a href="#" class="button">Vesu Branch &#x2192;</a>
+        
+        <div class="icons">
+            <a href="#" target="_blank">&#x1F4F7;</a> <!-- Instagram -->
+            <a href="tel:+911234567890">&#x1F4DE;</a> <!-- Phone -->
+            <a href="mailto:A1firesafety@gmail.com">&#x2709;</a> <!-- Email -->
+            <a href="#">&#x1F3E0;</a> <!-- Home -->
+            <a href="#">&#x1F4CD;</a> <!-- Location -->
+        </div>
+    </div>
+</body>
+</html>

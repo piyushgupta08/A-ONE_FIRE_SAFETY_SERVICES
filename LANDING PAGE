@@ -15,17 +15,16 @@
 </head>
 <body>
     <div class="container">
-        <img src="a-one site.png" alt="A-One Fire Safety" class="logo">
+        <img src="a-one site.png" alt="A-One Fire Safety Services" class="logo">
         
-        <a href="#" class="button">Adajan Branch &#x2192;</a>
-        <a href="#" class="button">Vesu Branch &#x2192;</a>
+        <a href="https://maps.app.goo.gl/iUDBpjJqXFonXah2A?g_st=com.google.maps.preview.copy" class="button">Adajan Branch &#x2192;</a>
+        <a href="https://maps.app.goo.gl/Td79LvrXm4XT5rFo6?g_st=com.google.maps.preview.copy" class="button">Vesu Branch &#x2192;</a>
         
         <div class="icons">
-            <a href="#" target="_blank">&#x1F4F7;</a> <!-- Instagram -->
-            <a href="tel:+911234567890">&#x1F4DE;</a> <!-- Phone -->
+            <a href="https://www.instagram.com/aonefiresafetyservices?igsh=MXR2anNxanFnOW9lMg==" target="_blank">&#x1F4F7;</a> <!-- Instagram -->
+            <a href="tel:+917984235098>&#x1F4DE;</a> <!-- Phone -->
             <a href="mailto:A1firesafety@gmail.com">&#x2709;</a> <!-- Email -->
-            <a href="#">&#x1F3E0;</a> <!-- Home -->
-            <a href="#">&#x1F4CD;</a> <!-- Location -->
+            <a href="http://aonefiresafety.co.in">&#x1F3E0;</a> <!-- Home -->
         </div>
     </div>
 </body>
